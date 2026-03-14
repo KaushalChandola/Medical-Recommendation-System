@@ -1,2 +1,2 @@
-# Medical-Recommendation-System
-Developed a machine learning–based Personalized Medical Recommendation System using Python and Flask that predicts diseases from user symptoms. The platform provides medicine suggestions, prescriptions, and workout recommendations through a simple and user-friendly web interface.
+# Personalized Medical Recommendation System (Machine Learning, Python, Flask)
+Developed a machine learning–based healthcare platform that predicts potential diseases based on user-input symptoms. Built a Flask web application with a user-friendly interface that provides personalized recommendations including medicines, prescriptions, and workout suggestions. The system focuses on accurate predictions, data privacy, and continuous model improvement to enhance healthcare insights and user experience...
